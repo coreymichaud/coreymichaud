@@ -3,7 +3,7 @@
 Welcome to my GitHub! I am a recent college graduate hoping to step into the world of Data Science.
 
 # 🛠️ Programming / Scripting Languages
-[![Programming/Scripting Languages](https://skillicons.dev/icons?i=python,r,postgres,html,css)](https://skillicons.dev)
+<img src="icons/tableau-icon.svg" width="75">
 
 # Data Visualization
 [![Programming/Scripting Languages](https://skillicons.dev/icons?i=tableau)](https://skillicons.dev)
