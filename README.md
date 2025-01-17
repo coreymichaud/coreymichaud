@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Corey
 
-<a href="https://www.linkedin.com/in/coreymichaud1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn" height="45"/></a> <a href="https://public.tableau.com/app/profile/corey.michaud/vizzes" target="_blank"><img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge" alt="Tableau" height="45"/></a> <a href="https://www.kaggle.com/coreymichaud" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2300acff?style=for-the-badge" alt="Kaggle" height="45"/></a>
+<a href="https://www.linkedin.com/in/coreymichaud1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn" height="40"/></a> <a href="https://public.tableau.com/app/profile/corey.michaud/vizzes" target="_blank"><img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge" alt="Tableau" height="40"/></a> <a href="https://www.kaggle.com/coreymichaud" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2300acff?style=for-the-badge" alt="Kaggle" height="40"/></a>
 
 <!--Check out https://skillicons.dev/ at some time because they'll have a icon builder and that would be perfect for the skills section.-->
 
@@ -9,7 +9,7 @@
   <img align="left" alt="UCF" width="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Seal_of_the_University_of_Central_Florida.svg/800px-Seal_of_the_University_of_Central_Florida.svg.png"/>
 </a>
 
-**University of Central Florida** // *August 2020 - May 2024* \
+**University of Central Florida** // *August '20 - May '24* \
 B.S. Statistics
 
 # 💼 Experience
@@ -23,11 +23,11 @@ B.S. Statistics
 
 # 🛠️ Skills
 
-### 🖥️ Programming / Scripting Languages
+### 🖥️ Languages
 
 <img src="icons/python.svg" title = "Python" width="75" height="100">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/r.svg" title = "R" width="75" height="100">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/sql.png" title = "SQL" width="150" height="80">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/html.svg" title = "HTML5" width="75">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/css.svg" title = "CSS3" width="75">
 
-### 📊 Data Visualization
+### 📊 Visualization
 
 <img src="icons/tableau-icon.svg" title = "Tableau" width="75">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/powerbi.png" title = "Microsoft Power BI" width="75">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/seaborn.svg" title = "Seaborn" width="75">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/ggplot.png" title = "ggplot2" width="75">
 
