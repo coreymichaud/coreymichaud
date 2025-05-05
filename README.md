@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Corey
 
-<a href="https://www.linkedin.com/in/coreymichaud1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn" height="40"/></a> <a href="https://public.tableau.com/app/profile/corey.michaud/vizzes" target="_blank"><img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge" alt="Tableau" height="40"/></a> <a href="https://www.kaggle.com/coreymichaud" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2300acff?style=for-the-badge" alt="Kaggle" height="40"/></a>
+<a href="https://www.linkedin.com/in/coreymichaud1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn" height="40"/></a> <a href="https://www.kaggle.com/coreymichaud" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2300acff?style=for-the-badge" alt="Kaggle" height="40"/></a> <a href="https://public.tableau.com/app/profile/corey.michaud/vizzes" target="_blank"><img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge" alt="Tableau" height="40"/></a>
 
 <!--Check out https://skillicons.dev/ at some time because they'll have a icon builder and that would be perfect for the skills section.-->
 
