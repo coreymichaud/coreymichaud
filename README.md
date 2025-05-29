@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Corey
+# Hi, I'm Corey 👋👨🏻‍💻
 
-<a href="https://www.linkedin.com/in/coreymichaud1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn" height="40"/></a> <a href="https://www.kaggle.com/coreymichaud" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2300acff?style=for-the-badge" alt="Kaggle" height="40"/></a> <a href="https://public.tableau.com/app/profile/corey.michaud/vizzes" target="_blank"><img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge" alt="Tableau" height="40"/></a>
+<a href="https://www.linkedin.com/in/coreymichaud1/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="60" style="fill:#0A66C2;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/coreymichaud" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" height="60" style="fill:#20BEFF;"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://public.tableau.com/app/profile/corey.michaud/vizzes" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" alt="Tableau" height="60" style="fill:#E97627;"/></a>
+
 
 <!--Check out https://skillicons.dev/ at some time because they'll have a icon builder and that would be perfect for the skills section.-->
 
@@ -9,28 +10,25 @@
   <img align="left" alt="UCF" width="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Seal_of_the_University_of_Central_Florida.svg/800px-Seal_of_the_University_of_Central_Florida.svg.png"/>
 </a>
 
-**University of Central Florida** // *August '20 - May '24* \
-B.S. Statistics
+**University of Central Florida** // *Orlando, Florida* \
+B.S. Statistics // *Graduated May '24*
 
 # 💼 Experience
-### Thompson Consulting Services
-**Data Administrator** // *November 2024 - Present*
+### Data Administrator // *November 2024 - Present*
+**Thompson Consulting Services**
 
-- Analyzed disaster relief data for hurricanes Helene and Milton with FEMA, improving resource allocation
-- Utilized advanced Excel features (XLOOKUP, VBA, pivot tables) to reduce reporting time by 30%
-- Managed GIS data across 10+ geographic zones for disaster recovery strategies
-- Led field team collaboration project for streamlined data analysis
+- Analyze disaster relief data for hurricanes Helene and Milton in collaboration with FEMA and the USACE,
+leveraging geospatial and statistical tools to enhance situational awareness.
+- Utilize Excel for advanced data querying, transformation, automation, and reporting through XLOOKUP, pivot
+tables, VBA macros, and complex formulas, allowing for an 80% reduction in manual processing time.
+- Lead 3 projects collaborating with field teams to develop a streamlined process for analyzing incoming data,
+improving business decisions and key performance indicators by 35%.
 
-# 🛠️ Skills
+### Team Lead // *September 2020 - November 2024*
+**Dang Boba & Musubi House**
 
-### 🖥️ Languages
-
-<img src="icons/python.svg" title = "Python" width="75" height="100">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/r.svg" title = "R" width="75" height="100">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/sql.png" title = "SQL" width="150" height="80">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/html.svg" title = "HTML5" width="75">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/css.svg" title = "CSS3" width="75">
-
-### 📊 Visualization
-
-<img src="icons/tableau-icon.svg" title = "Tableau" width="75">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/powerbi.png" title = "Microsoft Power BI" width="75">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/seaborn.svg" title = "Seaborn" width="75">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/ggplot.png" title = "ggplot2" width="75">
-
-### ⚙️ Tools
-
-<img src="icons/excel.svg" title = "Microsoft Excel" width="75">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/git.svg" title = "Git" width="75" height="70">&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/postgresql.svg" title = "Postgres" width="75">
+- Supervised and coordinated a team of 13 employees, ensuring smooth daily operations while fostering a
+collaborative and accountable work environment.
+- Trained and onboarded 15 new hires on standard operating procedures and service expectations.
+- Increased team productivity by 75% through strategic task allocation and workflow improvements during peak
+hours.
