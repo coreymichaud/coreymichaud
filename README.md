@@ -6,12 +6,9 @@
 <!--Check out https://skillicons.dev/ at some time because they'll have a icon builder and that would be perfect for the skills section.-->
 
 # 👨‍🎓 Education
-<a href="https://www.ucf.edu/">
-  <img align="left" alt="UCF" width="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Seal_of_the_University_of_Central_Florida.svg/800px-Seal_of_the_University_of_Central_Florida.svg.png"/>
-</a>
 
 **University of Central Florida** // *Orlando, Florida* \
-B.S. Statistics // *Graduated May '24*
+Bachelor of Science in Statistics // *Graduated May '24*
 
 # 💼 Experience
 ### Data Administrator
