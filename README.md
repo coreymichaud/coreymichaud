@@ -20,12 +20,3 @@ leveraging geospatial and statistical tools to enhance situational awareness.
 tables, VBA macros, and complex formulas, allowing for an 80% reduction in manual processing time.
 - Lead 3 projects collaborating with field teams to develop a streamlined process for analyzing incoming data,
 improving business decisions and key performance indicators by 35%.
-
-### Team Lead [4y 2m] 
-**Dang Boba & Musubi House** // *September 2020 - November 2024* 
-
-- Supervised and coordinated a team of 13 employees, ensuring smooth daily operations while fostering a
-collaborative and accountable work environment.
-- Trained and onboarded 15 new hires on standard operating procedures and service expectations.
-- Increased team productivity by 75% through strategic task allocation and workflow improvements during peak
-hours.
