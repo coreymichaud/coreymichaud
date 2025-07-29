@@ -11,12 +11,16 @@
 Bachelor of Science in Statistics // *Graduated May '24*
 
 # 💼 Experience
-### Data Administrator
-**Thompson Consulting Services** // *November 2024 - Present*
+### Deloitte
+**Solution Analyst** // *August 2025 - Present*
+- Work in progress!
 
-- Analyze disaster relief data for hurricanes Helene and Milton in collaboration with FEMA and the USACE,
+### Data Administrator
+**Thompson Consulting Services** // *November 2024 - August 2025*
+
+- Analyzed disaster relief data for hurricanes Helene and Milton in collaboration with multiple government agencies,
 leveraging geospatial and statistical tools to enhance situational awareness.
-- Utilize Excel for advanced data querying, transformation, automation, and reporting through XLOOKUP, pivot
+- Utilized Excel for advanced data querying, transformation, automation, and reporting through XLOOKUP, pivot
 tables, VBA macros, and complex formulas, allowing for an 80% reduction in manual processing time.
-- Lead 3 projects collaborating with field teams to develop a streamlined process for analyzing incoming data,
+- Led 3 projects collaborating with field teams to develop a streamlined process for analyzing incoming data,
 improving business decisions and key performance indicators by 35%.
