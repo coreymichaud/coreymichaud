@@ -8,7 +8,7 @@
 # 👨‍🎓 Education
 
 **University of Central Florida** // *Orlando, Florida* \
-Bachelor of Science in Statistics // *Graduated May '24*
+Bachelor of Science in Statistics // *Graduated May 2024*
 
 # 💼 Experience
 ### Solution Analyst
