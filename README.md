@@ -11,8 +11,8 @@
 Bachelor of Science in Statistics // *Graduated May '24*
 
 # 💼 Experience
-### Deloitte
-**Solution Analyst** // *August 2025 - Present*
+### Solution Analyst
+**Deloitte** // *August 2025 - Present*
 - Work in progress!
 
 ### Data Administrator
