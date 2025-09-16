@@ -2,17 +2,17 @@
 
 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTEweXVvM3M2OXM1YWdobmJ6Z2hndmYxcDJ5YzJidGJhbGI3MHFsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="200" align="left"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTEweXVvM3M2OXM1YWdobmJ6Z2hndmYxcDJ5YzJidGJhbGI3MHFsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="250" align="right"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👨🏻‍💻 I'm **Corey**, and I have a passion for _statistics_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💼 I am currently a **Solution Analyst @ Deloitte**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍&nbsp; I reside in **Orlando, FL**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👨‍🎓 I have a **B.S. in Statistics** from the **University of Central Florida**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💡 I am currently learning **AWS**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👾 Occasionally, I participate in [Kaggle](https://www.kaggle.com/coreymichaud) competitions  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🛠️ My go-to language is **Python**, but I try to _mingle_ a little  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌐 Check out my [website](https://www.coreymichaud.dev/)! I have a **blog** there too :)  
+  
+- 👨🏻‍💻 I'm **Corey**, and I have a passion for _statistics_
+- 💼 I am currently a **Solution Analyst @ Deloitte**
+- 📍 I reside in **Orlando, FL**
+- 👨‍🎓 I have a **B.S. in Statistics** from the **University of Central Florida**
+- 💡 I am currently learning **AWS**
+- 👾 Occasionally, I participate in [Kaggle](https://www.kaggle.com/coreymichaud) competitions
+- 🛠️ My go-to language is **Python**, but I try to _mingle_ a little
+- 🌐 Check out my [website](https://www.coreymichaud.dev/)! I have a **blog** there too :)
 
 
 
