@@ -2,7 +2,7 @@
 
 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTEweXVvM3M2OXM1YWdobmJ6Z2hndmYxcDJ5YzJidGJhbGI3MHFsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="250" align="right"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTEweXVvM3M2OXM1YWdobmJ6Z2hndmYxcDJ5YzJidGJhbGI3MHFsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="200" align="right"/>
 
   
 - 👨🏻‍💻 I'm **Corey**, and I have a passion for _statistics_
