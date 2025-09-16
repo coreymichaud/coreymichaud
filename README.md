@@ -6,7 +6,7 @@
 - 👨🏻‍💻 I'm **Corey**, and I have a passion for *statistics*
 - 💼 I am currently a **Solution Analyst @ Deloitte**
 - 📍 I reside in **Orlando, FL**
-- 👨‍🎓 I have a **B.S. in Statistics** from the **University of Central Florida**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 👨‍🎓 I have a **B.S. in Statistics** from the **University of Central Florida**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - 💡 I am currently learning **AWS**
 - 👾 Occasionally, I participate in [Kaggle](https://www.kaggle.com/coreymichaud) competitions
 - 🛠️ My go-to language is **Python**, but I try to *mingle* a little
