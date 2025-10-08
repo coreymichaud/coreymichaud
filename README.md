@@ -1,6 +1,6 @@
-# Hi!
+# Hi, I'm Corey!
 
-- 👨🏻‍💻 I'm **Corey**, and I have a passion for _statistics_ & _machine learning_
+- 👨🏻‍💻 I have a passion for _statistics_ & _machine learning_
 - 💼 I am currently a **Solution Analyst @ Deloitte**
 - 📍 I reside in **Orlando, FL**
 - 👨‍🎓 I have a **B.S. in Statistics** from the **University of Central Florida**
