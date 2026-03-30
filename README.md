@@ -7,4 +7,4 @@
 - ☁️ Currently using **AWS** for cloud solutions
 - 👾 Occasionally, I participate in [Kaggle](https://www.kaggle.com/coreymichaud) competitions
 - 🛠️ My go-to language is **Python**, but I try to *mingle* a little
-- 🌐 Check out my [website](https://www.coreymichaud.dev/), maybe my [blog](https://coreymichaud.substack.com/) too! :)
+- 🌐 Check out my [website](https://www.coreymichaud.dev/), and maybe my [blog](https://coreymichaud.substack.com/) too! :)
