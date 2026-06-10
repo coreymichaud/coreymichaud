@@ -1,7 +1,7 @@
 # Hi, I'm Corey!
 
 - 👨🏻‍💻 I have a passion for **statistics & machine learning**
-- 💼 I am currently a **Solution Analyst @ Deloitte**
+- 💼 I am currently a **Delivery Analyst @ Deloitte**
 - 📍 I live in **Orlando, FL**
 - 👨‍🎓 I have a **B.S. in Statistics** from the **University of Central Florida**
 - ☁️ Currently using **AWS** for cloud solutions
